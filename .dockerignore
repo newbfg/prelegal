@@ -1,0 +1,13 @@
+**/.git
+**/node_modules
+**/.next
+out/
+**/__pycache__
+**/*.pyc
+**/.venv
+backend/data/
+backend/static/
+**/.pytest_cache
+**/.DS_Store
+.env
+.env.*
